@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfDayOfTheWeek", "IfDayOfTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchDayOfTheWeek", "SwitchDayOfTheWeek\SwitchDayOfTheWeek.csproj", "{CFE6D7D4-AA9D-4E24-9034-4A62B4D9DFCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodleTestiHarjutus", "MoodleTestiHarjutus\MoodleTestiHarjutus.csproj", "{C60F23F1-6536-4C8E-ADEE-871C3E4ACCA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CFE6D7D4-AA9D-4E24-9034-4A62B4D9DFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFE6D7D4-AA9D-4E24-9034-4A62B4D9DFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFE6D7D4-AA9D-4E24-9034-4A62B4D9DFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60F23F1-6536-4C8E-ADEE-871C3E4ACCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60F23F1-6536-4C8E-ADEE-871C3E4ACCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60F23F1-6536-4C8E-ADEE-871C3E4ACCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60F23F1-6536-4C8E-ADEE-871C3E4ACCA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
